@@ -6,7 +6,7 @@ application up and running.
 Installation
 
     git clone https://github.com/BoroDevMeetup/1stproject-api.git this repository
-    Any issues contact Shaun Willis @shaunWMusic.com
+    Any issues contact Shaun Willis @shaunWMusic
 
 
 Things you may want to cover:
