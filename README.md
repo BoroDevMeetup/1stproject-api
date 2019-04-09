@@ -8,6 +8,12 @@ Installation
     git clone https://github.com/BoroDevMeetup/1stproject-api.git this repository
     Any issues contact Shaun Willis @shaunWMusic.com
 
+Running / Development
+
+    type rails s in your terminal
+    Visit your app at http://localhost:4200.
+    Visit your tests at http://localhost:4200/tests.
+
 
 Things you may want to cover:
 
